@@ -1,0 +1,7 @@
+apiVersion: gitops.jenkins-x.io/v1alpha1
+kind: SourceConfig
+spec:
+  url: https://github.com/rgarciajim1980/jenkins-x-boot-config.git
+  provider: github
+  owner: rgarciajim1980
+  repository: jenkins-x-boot-config

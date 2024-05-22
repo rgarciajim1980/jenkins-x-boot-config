@@ -1,9 +1,9 @@
 cluster:
-  clusterName: ""
-  environmentGitOwner: ""
+  clusterName: "minikube"
+  environmentGitOwner: "rgarciajim1980"
   environmentGitPublic: false
-  project: ""
-  provider: gke
+  project: "project-jx"
+  provider: kubernetes
   zone: ""
 gitops: true
 environments:
